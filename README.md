@@ -1,16 +1,30 @@
-## Hi there 👋
+# Byrln | [Portfolio](https://byrln.dev)
 
-<!--
-**Byrln/Byrln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Byrln.
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer and Software Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on innovative projects in AI and web development.
+
+I have created a number of open source projects, including:
+- **AI Accounter** - an intelligent accounting system leveraging artificial intelligence
+- **Mungundent Clinic** - a comprehensive dental clinic management system
+- **E-commerce Task** - a modern e-commerce platform with TypeScript
+- **Dental Clinic Fullstack** - a complete healthcare management solution
+- **Portfolio** - my personal portfolio showcasing development skills
+
+## 🛠️ Technologies & Tools
+- **Frontend:** TypeScript, HTML, CSS, React
+- **Backend:** Node.js, Full Stack Development
+- **AI/ML:** Artificial Intelligence integration
+- **Databases:** Modern database solutions
+- **Healthcare Tech:** Clinic management systems
+
+## 🚀 Current Focus
+- Building AI-powered applications
+- Developing healthcare technology solutions
+- Creating robust e-commerce platforms
+- Contributing to open source projects
+
+---
+*Feel free to explore my repositories and connect with me for collaboration opportunities!*
