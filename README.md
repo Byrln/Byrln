@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://byrln.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/byrln)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.byrln@gmail.com)
 
 </div>
 
@@ -16,23 +16,20 @@
 
 ```typescript
 const byrln = {
-    code: ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
-    askMeAbout: ["web dev", "AI/ML", "healthcare tech", "system design"],
+    code: ["TypeScript", "JavaScript", "HTML", "CSS"],
+    askMeAbout: ["web dev", "DX", "UI/UX"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js", "Vue"],
+            js: ["React", "Next.js"],
             css: ["Tailwind", "Bootstrap", "Styled Components"]
         },
         backEnd: {
             js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL"]
+            databases: ["PostgreSQL", "MySQL"]
         },
-        ai: ["TensorFlow", "PyTorch", "OpenAI API"],
-        devOps: ["Docker", "AWS", "Vercel"],
         tools: ["Git", "VS Code", "Figma"]
     },
-    currentFocus: "Building AI-powered healthcare solutions 🏥",
+    currentFocus: "Building AI-powered solutions 🏥",
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
@@ -46,11 +43,8 @@ const byrln = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
